@@ -15,7 +15,10 @@ body {
     padding: 10px 40px;
     border-radius: 5px;
     background-color: rgb(235, 99, 9);
-    font-weight: 700;
+    font-weight: 500;
+    text-decoration: none;
+    color: aliceblue;
+
 
 }
 
@@ -115,8 +118,64 @@ hr {
 }
 
 .sec-2-button {
-    padding-top: 0%;
+    padding-top: 8px;
     padding: center;
     text-align: center;
+    padding-bottom: 0%;
+}
 
+.sec-3-margin {
+    text-align: center;
+    margin-top: 100px;
+    padding-top: 0%;
+    border: none;
+    padding-bottom: 10px;
+}
+
+.sec-3-div-beside {
+    display: flex;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 0%;
+
+}
+
+.sec-3-box-left {
+
+    background-color: lightgray;
+    text-align: center;
+    margin: 1%;
+    border: none;
+    padding: 20px;
+    border-radius: 5px;
+
+}
+
+.sec-3-box-middle {
+    background-color: lightpink;
+    text-align: center;
+    margin: 1%;
+    border: none;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.sec-3-box-right {
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    margin: 1%;
+    border: none;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.div-4-Email {
+    background-color: rgb(231, 222, 90);
+    text-align: center;
+    margin: 1%;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
 }
