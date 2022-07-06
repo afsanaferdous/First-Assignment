@@ -16,6 +16,7 @@ body {
     border-radius: 5px;
     background-color: rgb(235, 99, 9);
     font-weight: 700;
+
 }
 
 .section-1-backimg {
@@ -41,7 +42,14 @@ section div {
     margin-top: 100px;
     padding: 0;
     border: none;
+
 }
+
+.sec-2-bottomline {
+    padding-bottom: 0%;
+}
+
+
 
 #sec-2-h1 {
     font-size: 70px;
@@ -82,4 +90,33 @@ section div {
     margin: 1%;
 
     border-color: 5% solid red;
+}
+
+.sec-2-amount-margin {
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+.sec-2-bottomline {
+    border-bottom: 2% solid gray;
+}
+
+#sec-2-amount {
+    text-align: center;
+    font-size: 16px;
+    color: darkgray;
+}
+
+hr {
+    background-color: rgb(230, 225, 225);
+    width: 40%;
+    color: rgb(216, 207, 207);
+
+}
+
+.sec-2-button {
+    padding-top: 0%;
+    padding: center;
+    text-align: center;
+
 }
