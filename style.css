@@ -91,8 +91,10 @@ section div {
     background-color: rgb(253, 236, 236);
     text-align: center;
     margin: 1%;
+    border-style: solid;
 
-    border-color: 5% solid red;
+
+
 }
 
 .sec-2-amount-margin {
@@ -224,7 +226,7 @@ section div {
 
 #footer {
     background-color: black;
-    color: brown;
+    color: rgb(252, 0, 0);
     text-align: center;
     margin: 0 auto;
     height: 150px;
